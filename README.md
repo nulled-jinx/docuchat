@@ -2,8 +2,6 @@
 
 DocuChat is an AI-powered web application that allows users to upload PDF documents and interact with them through natural language. Ask questions, get summaries, and extract insights instantly using OpenRouter's Mistral 7B language model.
 
----
-
 ## Features
 
 - Upload any PDF and extract its content
@@ -11,21 +9,15 @@ DocuChat is an AI-powered web application that allows users to upload PDF docume
 - Get fast, AI-generated answers
 - Built with a modern tech stack and polished UI
 
----
-
 ## Demo
 
 Check [Demo](demo)
-
----
 
 ## Tech Stack
 
 | Frontend                   | Backend           | AI Model                    |
 | -------------------------- | ----------------- | --------------------------- |
 | React + Vite + TailwindCSS | Node.js + Express | OpenRouter API (Mistral 7B) |
-
----
 
 ## Setup Instructions
 
